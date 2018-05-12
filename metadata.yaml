@@ -1,0 +1,35 @@
+_repo: The-New-Nation_27953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paxson, Frederic L. (Frederic Logan)
+    alias: Paxson, Frederic Logan
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '33034'
+    url: http://www.gutenberg.org/2009/agents/33034
+  editor:
+    agent_name: Dodd, William Edward
+    alias: Dodd, William E. (William Edward)
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '24753'
+    url: http://www.gutenberg.org/2009/agents/24753
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27953'
+  lccn: '15009449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'United States -- History -- 1865-1921'
+title: The New Nation
+url: http://www.gutenberg.org/ebooks/27953
